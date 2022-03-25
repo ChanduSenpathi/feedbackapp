@@ -1,0 +1,17 @@
+.li-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-1{
+    width: 80px;
+}
+.span-1{
+    font-size: 18px;
+}
+.button-1{
+    border-width: 0px;
+    background-color: transparent;
+    cursor: pointer;
+}

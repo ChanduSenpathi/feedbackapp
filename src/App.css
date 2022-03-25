@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+  height: 100vh;
+}
+.container-1{
+  padding: 20px;
+  background-color: white;
+  width: 500px;
+  border-radius: 20px;
+}
+.ul-container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.main-container{
+  background-color: white;
+  padding: 20px;
+  width: 500px;
+  border-radius: 20px;
+}
+.image-2{
+  width: 150px;
+}
